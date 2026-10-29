@@ -1,0 +1,10 @@
+﻿__pycache__/
+*.pyc
+out/
+*.apk
+*.xapk
+*.apks
+*.keystore
+*.jks
+*.log
+.DS_Store
